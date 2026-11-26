@@ -6,7 +6,8 @@
 Works next to your normal antivirus, explains everything in plain English, and walks you through fixing it one step at a time.<br>
 Nothing is removed or changed until you click.</p>
 
-<p align="center"><a href="../../releases/latest"><b>⬇ Download the latest version</b></a> · Windows 10 / 11 · free, <a href="https://ko-fi.com/justin55287">pay what you want ☕</a></p>
+<p align="center"><a href="../../releases/latest"><img src="download-button.svg" width="400" alt="Download Justin Shield (latest version)"></a><br>
+<sub>Always the newest version · free · <a href="https://ko-fi.com/justin55287">pay what you want ☕</a></sub></p>
 
 ---
 
@@ -43,7 +44,9 @@ On first start you choose one (you can change it later):
 
 ## How to install
 
-1. Download `JustinShield-<version>.zip` from [Releases](../../releases/latest) and unzip it somewhere permanent, for example `C:\Justin Shield`.
+<a href="../../releases/latest"><img src="download-button.svg" width="300" alt="Download Justin Shield (latest version)"></a>
+
+1. Click the button above (or open [Releases](../../releases/latest)), download `JustinShield-<version>.zip` (the newest one is marked **Latest**), and unzip it somewhere permanent, for example `C:\Justin Shield`.
 2. Double-click **JustinShield.exe**.
 3. **Windows will say "Windows protected your PC".** Justin Shield isn't code-signed yet, so Windows doesn't recognise it. Click **More info → Run anyway**. To check the file first, upload the zip to [virustotal.com](https://www.virustotal.com) yourself, and compare its SHA-256 with the one in the release notes.
 4. Click **Yes** when Windows asks for administrator rights. Justin Shield needs them to stop programs and quarantine files.
