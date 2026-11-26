@@ -1,0 +1,34 @@
+JUSTIN SHIELD: TERMS OF USE (version 1.0)
+
+Please read these terms. By clicking "Agree" you accept them. If you don't agree, click "Exit" and don't use Justin Shield.
+
+1. PROVIDED AS-IS, WITH NO WARRANTY
+Justin Shield is provided "as is" and "as available", without any warranty of any kind, express or implied, including any warranty that it is fit for a particular purpose, error-free, or that it will find or remove every threat. No security software can catch everything.
+
+2. NOT A REPLACEMENT FOR ANTIVIRUS OR PROFESSIONAL HELP
+Justin Shield is a second line of defence. Keep Windows Security (or your own antivirus) turned on. If you think money, identity or a business is at risk, contact your bank, the relevant service, or a security professional.
+
+3. EVERYTHING IT DOES IS YOUR CHOICE
+Every removal, deletion, setting change and clean-up is your own action, confirmed by you with a click (or allowed by you in Settings, such as letting the AI agents act within their safety rules). Most removals go to Quarantine and can be restored, but some actions, such as clearing saved passwords or secure delete, cannot be undone.
+
+4. BACK UP FIRST
+You are responsible for backing up your files and for checking what you remove. The author is not responsible for lost data.
+
+5. AI CAN BE WRONG
+AI explanations and verdicts can be wrong. If you choose Claude, the details of a finding are sent to Anthropic to be analysed, under Anthropic's own terms. If you choose the Free AI, it runs on your PC and nothing is sent. With No AI, nothing AI-related runs.
+
+6. LIMITATION OF LIABILITY
+As far as the law allows, the author of Justin Shield is not liable for any damage, data loss, account loss, financial loss, or any other harm arising from using or not being able to use Justin Shield. If any liability can't be excluded by law, the author's total liability is limited to the amount you paid for Justin Shield (which may be $0).
+
+7. PAY WHAT YOU WANT, NO REFUNDS
+Justin Shield is a pay-what-you-want project. You choose the price, including $0. All payments are final and are not refundable, as far as the law allows. Paying does not unlock any extra features, support guarantee or service.
+
+8. THIRD-PARTY PARTS
+Justin Shield uses or downloads third-party components (such as ClamAV, YARA, Ollama, the Qwen model, and public threat lists). Each is under its own license and terms; see THIRD-PARTY.txt. Some threat lists require their own free key and terms.
+Justin Shield can read what Windows Defender and Malwarebytes have already recorded on your PC, if you have them. It does not include, change or unlock either product. Justin Shield is not affiliated with or endorsed by Microsoft, Malwarebytes, Anthropic, Ollama or Alibaba (Qwen). Product names are trademarks of their owners.
+
+9. CHANGES
+These terms may change in a future version. If they do, Justin Shield will show them again and ask you to agree.
+
+10. GOVERNING LAW
+These terms are governed by the laws of the State of New York, United States, except where your local consumer law gives you rights that can't be waived.

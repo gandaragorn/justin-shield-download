@@ -1,0 +1,35 @@
+JUSTIN SHIELD: THIRD-PARTY COMPONENTS
+
+Justin Shield's own code is by its author. It uses, or downloads on your PC when you ask, these components from others.
+Each one stays under its own license and terms.
+
+INCLUDED IN THIS DOWNLOAD
+- Python runtime (packed into JustinShield.exe by PyInstaller)
+  Python Software Foundation License 2.0 · https://docs.python.org/3/license.html
+- PyInstaller bootloader
+  GPL 2.0 with a special exception that allows distributing programs built with it · https://pyinstaller.org/en/stable/license.html
+
+DOWNLOADED LATER, FROM THE OFFICIAL SOURCE, ONLY IF YOU USE THE FEATURE
+- ClamAV antivirus engine and signatures (Cisco Talos)
+  GPL 2.0 · Source code: https://github.com/Cisco-Talos/clamav · https://www.clamav.net
+- YARA pattern-matching engine (VirusTotal)
+  BSD 3-Clause · https://github.com/VirusTotal/yara
+- YARA rules from public research collections
+  Each collection's own license, shown on the Updates page · e.g. https://github.com/YARAHQ/yara-forge
+- Ollama (only if you choose "Free AI on this PC")
+  MIT License · https://github.com/ollama/ollama
+- Qwen3 AI model (only if you choose "Free AI on this PC")
+  Apache License 2.0 · https://huggingface.co/Qwen
+- HollowsHunter / PE-sieve (hasherezade)
+  BSD 2-Clause · https://github.com/hasherezade/hollows_hunter
+
+THREAT LISTS (USED AS DATA ONLY, NEVER RUN)
+- abuse.ch Feodo Tracker, URLhaus, ThreatFox, MalwareBazaar
+  abuse.ch terms of use · https://abuse.ch/terms-of-use/
+  URLhaus, ThreatFox and MalwareBazaar need your own free abuse.ch Auth-Key.
+
+OTHER PRODUCTS JUSTIN SHIELD CAN WORK WITH (NOT INCLUDED)
+- Windows Security / Microsoft Defender (Microsoft): read through Windows' own commands.
+- Malwarebytes (Malwarebytes Inc.): reads the detection history Malwarebytes saved on your PC.
+- Claude Code (Anthropic): used only if you install it, sign in and choose "Claude".
+Justin Shield is not affiliated with or endorsed by any of these companies. Product names are trademarks of their owners.
