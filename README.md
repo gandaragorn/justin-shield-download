@@ -6,7 +6,7 @@
 Works next to your normal antivirus, explains everything in plain English, and walks you through fixing it one step at a time.<br>
 Nothing is removed or changed until you click.</p>
 
-<p align="center"><a href="../../releases/latest"><b>⬇ Download the latest version</b></a> · Windows 10 / 11 · free, pay what you want</p>
+<p align="center"><a href="../../releases/latest"><b>⬇ Download the latest version</b></a> · Windows 10 / 11 · free, <a href="https://ko-fi.com/justin55287">pay what you want ☕</a></p>
 
 ---
 
@@ -58,7 +58,7 @@ On first start you choose one (you can change it later):
 
 ## Terms and price
 
-- **Pay what you want, including $0.** Payments are voluntary and **not refundable**. Paying doesn't unlock anything extra.
+- **Pay what you want, including $0.** If Justin Shield helped you, you can support it on **[Ko-fi ☕](https://ko-fi.com/justin55287)**. Payments are voluntary and **not refundable**. Paying doesn't unlock anything extra.
 - Provided **as-is, with no warranty**. You must agree to the [terms](TERMS.txt) on first start. Governed by New York law.
 - Uses open-source parts under their own licenses: see [THIRD-PARTY.txt](THIRD-PARTY.txt).
 - Not affiliated with or endorsed by Microsoft, Malwarebytes, Anthropic, Ollama or Alibaba (Qwen). Product names are trademarks of their owners.
