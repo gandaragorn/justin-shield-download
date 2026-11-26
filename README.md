@@ -45,7 +45,7 @@ On first start you choose one (you can change it later):
 
 1. Download `JustinShield-<version>.zip` from [Releases](../../releases/latest) and unzip it somewhere permanent, for example `C:\Justin Shield`.
 2. Double-click **JustinShield.exe**.
-3. **Windows will say "Windows protected your PC".** Justin Shield isn't code-signed yet, so Windows doesn't recognise it. Click **More info → Run anyway**. Each release links its VirusTotal scan so you can check the file first.
+3. **Windows will say "Windows protected your PC".** Justin Shield isn't code-signed yet, so Windows doesn't recognise it. Click **More info → Run anyway**. To check the file first, upload the zip to [virustotal.com](https://www.virustotal.com) yourself, and compare its SHA-256 with the one in the release notes.
 4. Click **Yes** when Windows asks for administrator rights. Justin Shield needs them to stop programs and quarantine files.
 5. Read and agree to the terms, then pick your AI helper.
 
